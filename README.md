@@ -36,6 +36,7 @@ Resources best suited for those just starting out (0–HSK 2).
 | Mandarin Blueprint | Course / Video Library | Structured beginner course library covering characters, pronunciation and grammar | [courses.mandarinblueprint.com/library](https://courses.mandarinblueprint.com/library) |
 | ChinesePod | Podcast | Beginner-friendly podcast for building listening comprehension; search for "Newbie" episodes | Search "ChinesePod beginner" on your podcast app |
 | YouTube – Beginner Lesson | Video | Beginner Mandarin video lesson | [youtu.be/9lJUTpSSN8c](https://youtu.be/9lJUTpSSN8c?si=LpfauBrIOO629O8D) |
+| Youtube - Learning Tips | Video | Learning Routine | [I speak 12 languages - copy my 30 min learning routine](https://youtu.be/_wYjXdt4a2I?si=cQngb9h54ylCF4KK) |
 
 ---
 
