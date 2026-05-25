@@ -160,6 +160,7 @@ Resources useful at any stage of learning.
 | Anki | Flashcard App (SRS) | Spaced repetition flashcard system; use community Mandarin decks or build your own | [github.com/ankitects/anki](https://github.com/ankitects/anki) |
 | Mandarin Frequency List 1–1000 | Word List | The most common 1,000 Mandarin words — a great source for building an Anki deck | [Wiktionary](https://en.wiktionary.org/wiki/Appendix:Mandarin_Frequency_lists/1-1000) |
 | Claude / ChatGPT | AI Tool | Translate, annotate, correct sentences, generate practice prompts, and convert self-talk scripts to Mandarin | [claude.ai](https://claude.ai) / [chatgpt.com](https://chatgpt.com) |
+| Pleco | Dictionary App | The go-to Mandarin dictionary app; shows characters, Pinyin, definitions, stroke order, and example sentences | [pleco.com](https://www.pleco.com) |
 
 ---
 
@@ -174,7 +175,7 @@ Resources best suited for those just starting out (0–HSK 2).
 | YouTube – Beginner Lesson | Video | Beginner Mandarin video lesson | [youtu.be/9lJUTpSSN8c](https://youtu.be/9lJUTpSSN8c?si=LpfauBrIOO629O8D) |
 | YouTube – 30-Min Learning Routine | Video | Polyglot's 30-minute daily routine — explains the self-talk audio method and comprehensible input approach | [I speak 12 languages – copy my 30 min routine](https://youtu.be/_wYjXdt4a2I?si=cQngb9h54ylCF4KK) |
 | Yoyo Chinese | YouTube Channel | Clear beginner grammar and pronunciation explanations; good for filling in gaps | [youtube.com/@YoyoChinese](https://www.youtube.com/@YoyoChinese) |
-| Pleco | Dictionary App | The go-to Mandarin dictionary app; shows characters, Pinyin, definitions, stroke order, and example sentences | [pleco.com](https://www.pleco.com) |
+| MandarinClick | YouTube Channel | Short stories for comprehensive listening | [youtube.com/@YoyoChinese](https://www.youtube.com/@MandarinClick)|
 
 ---
 
